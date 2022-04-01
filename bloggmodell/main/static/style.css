@@ -1,0 +1,36 @@
+
+.bloggpost{
+    width: 300px;
+    background-color:gray;
+    padding: 50px;
+    margin: 25px;
+    color: white;
+    text-align: center;
+}
+
+.mainpage{
+    position: absolute;
+    top: 80px;
+    left: 700px;
+    width: 200px;
+    height: 100px;
+}
+
+ul{  
+    padding:0;  
+    background:black;  
+    font-family:Arial, sans serif;  
+    font-size:24px;  
+    text-transform:uppercase;
+}
+
+li{  
+    display:inline-block;
+}
+
+a{  
+    display:block;  
+    padding:10px;  
+    color:white;  
+    text-decoration:none;
+}
